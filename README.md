@@ -1,5 +1,7 @@
 # redessociales
 practica de clase
-INTEGRANTES:
-*Danna Paola Carrilo Huerta
-*María Guadalupe Ramirez Hipolito
+Integrantes del trabajo hecho:
+
+María Guadalupe Ramírez Hipólito
+
+Danna Paola Carrillo Huerta
